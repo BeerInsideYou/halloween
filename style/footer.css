@@ -1,0 +1,26 @@
+body {
+    position: relative;
+}
+.footer {
+    background-color: #a29d6f;
+}
+.footer-history {
+    background-color: transparent;
+    width: 100%;
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    z-index: 5;
+}
+.footer-glav {
+    background-color: #1c212b;
+    padding-bottom: 20px;
+}
+.footer-contact {
+    background-color: transparent;
+    width: 100%;
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    z-index: 5;
+}
