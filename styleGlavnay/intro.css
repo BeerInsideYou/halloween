@@ -13,14 +13,14 @@
     text-transform: uppercase;
     color: #d4d3cc;
     font-size: 24px;
-    font-family: 'ApexMk3_cyr';
+    font-family: 'mr_ApexMk3', sans-serif;
     margin-top: 75px;
 }
 .intri__title {
     text-transform: uppercase;
     color: #a29d6f;
     font-size: 56px;
-    font-family: 'ApexMk3_cyr';
+    font-family: 'mr_ApexMk3', sans-serif;
     margin-top: 10px;
     max-width: 600px;
     line-height: 1;

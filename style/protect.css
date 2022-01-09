@@ -6,8 +6,8 @@
 }
 .protect__title {
     color: #a29d6f;
-    font-family: 'ApexMk3_cyr';
-    font-weight: 400;
+    font-family: 'mr_ApexMk3', sans-serif;
+    font-weight: 500;
     font-size: 36px;
     text-transform: uppercase;
     letter-spacing: 2px;

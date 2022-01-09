@@ -9,7 +9,7 @@
 }
 .histoty__inner {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .histoty__left {
     max-width: 480px;
@@ -23,7 +23,7 @@
 .histoty__title {
     font-size: 34px;
     color: #afa874;
-    font-family: 'ApexMk3';
+    font-family: 'mr_ApexMk3', sans-serif;
     text-transform: uppercase;
 
 }

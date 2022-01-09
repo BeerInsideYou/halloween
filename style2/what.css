@@ -29,11 +29,25 @@
     font-size: 36px;
     color: #1c212b;
     text-transform: uppercase;
-    font-family: 'ApexMk3_cyr';
-    max-width: 340px;
+    font-family: 'mr_ApexMk3', sans-serif;
+    max-width: 300px;
     line-height: 1;
     padding-left: 70px;
+    position: relative;
 }
+.what__title span {
+    font-size: 72px;
+}
+.what__title::after {
+    content: '?';
+    font-size: 80px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    font-family: 'mr_ApexMk3', sans-serif;
+}
+
 .what__content {
     display: flex;
     justify-content: space-between;

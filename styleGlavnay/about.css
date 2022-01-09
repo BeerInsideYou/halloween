@@ -9,7 +9,7 @@
     font-size: 48px;
     text-transform: uppercase;
     color: #1c212b;
-    font-family: 'ApexMk3_cyr';
+    font-family: 'mr_ApexMk3', sans-serif;
     max-width: 580px;
 }
 .about__date {
@@ -33,7 +33,7 @@
     font-size: 36px;
     color: #1b212b;
     text-transform: uppercase;
-    font-family: 'ApexMk3_cyr';
+    font-family: 'mr_ApexMk3', sans-serif;
 }
 .swiper {
     margin: 0 150px !important;

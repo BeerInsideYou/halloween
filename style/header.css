@@ -11,12 +11,10 @@
     position: relative;
 }
 .header__logo {
-    font-size: 30px;
-    color: #b8b17a;
     position: absolute;
     left: 0;
     top: 0;
     z-index: 1;
-    font-family: 'fractal';
-    
+    width: 80px;
+    height: 80px;
 }

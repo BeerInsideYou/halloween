@@ -4,7 +4,7 @@
     position: relative;
 }
 .history__title {
-    font-family: 'ApexMk3_cyr';
+    font-family: 'mr_ApexMk3', sans-serif;
     font-size: 36px;
     color: #1c212b;
     line-height: 1;

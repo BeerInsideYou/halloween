@@ -13,7 +13,7 @@
     z-index: 1;
 }
 .intro__title {
-    font-family: 'mr_ApexMk3';
+    font-family: 'mr_ApexMk3', sans-serif;
     font-size: 55px;
     color: #b8b17a;
     max-width: 450px;
