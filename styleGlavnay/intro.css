@@ -16,6 +16,7 @@
     font-size: 24px;
     font-family: 'mr_ApexMk3', sans-serif;
     margin-top: 75px;
+    letter-spacing: 3px;
 }
 .intri__title {
     text-transform: uppercase;
@@ -25,6 +26,7 @@
     margin-top: 10px;
     max-width: 600px;
     line-height: 1;
+    letter-spacing: 3px;
 }
 .intro__text {
     color: #d4d3cc;
