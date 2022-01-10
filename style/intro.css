@@ -2,9 +2,9 @@
     width: 100%;
     height: 100vh;
     background-image: url('../img/баннер\ монстр1.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
+    background-origin: content-box;
+    background-clip: content-box;
 }
 .intro__inner {
     position: relative;

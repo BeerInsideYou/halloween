@@ -1,8 +1,9 @@
 .intro {
     background-image: url('../img/clearing-storm.png');
     background-color: #1c212b;
-    background-position: center;
-    background-size: cover;
+    background-size: 100% 100%;
+    background-origin: content-box;
+    background-clip: content-box;
     background-repeat: no-repeat;
     height: 560px;
 }
