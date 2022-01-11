@@ -6,16 +6,42 @@
     background-clip: content-box;
     background-repeat: no-repeat;
     height: 560px;
+    position: relative;
 }
+.intro__img1 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 7;
+}
+.intro__img2 {
+    position: absolute;
+    right: 0;
+    bottom: 120px;
+    z-index: 6;
+}
+.intro__img3 {
+    position: absolute;
+    right: 20%;
+    bottom: 9%;
+    z-index: 5;
+}
+.intro__img4 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 5;
+}
+
 .intro__inner {
     padding-left: 100px;
+    padding-top: 75px;
 }
 .intro__subtitle {
     text-transform: uppercase;
     color: #d4d3cc;
     font-size: 24px;
     font-family: 'mr_ApexMk3', sans-serif;
-    margin-top: 75px;
     letter-spacing: 3px;
 }
 .intri__title {
