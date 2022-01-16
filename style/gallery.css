@@ -8,7 +8,7 @@
     padding-bottom: 70px;
 }
 .gallery__item {
-    width: 33.333%;
+    width: 33.3333%;
 }
 .gallery__item img {
     width: 100%;
@@ -22,4 +22,5 @@
     font-size: 16px;
     color: #d5d4c7;
     font-family: 'fractal';
+    padding-right: 50px;
 }

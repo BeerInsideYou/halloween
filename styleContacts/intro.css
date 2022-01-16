@@ -4,8 +4,7 @@ body {
 .intro {
     position: relative;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 100vh;
 }
 .intro__inner {
     width: 100%;
@@ -14,7 +13,7 @@ body {
 .intro__title {
     color: #1c212b;
     line-height: 1;
-    font-family: 'ApexMk3_cyr';
+    font-family: 'mr_ApexMk3', sans-serif;
     font-size: 60px;
     max-width: 400px;
     letter-spacing: 4px;
@@ -22,11 +21,12 @@ body {
 }
 .intro__left {
     width: 60%;
+    height: 100%;
     background-color: #807d58;
     clip-path: polygon(0 0, 80% 0, 100% 100%, 0% 100%);
     position: relative;
     z-index: 5;
-    padding: 150px 0 100px 250px
+    padding: 350px 0 100px 350px
 }
 .intro__right {
     position: absolute;

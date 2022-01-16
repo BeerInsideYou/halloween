@@ -53,17 +53,17 @@
 .protect__right {
     padding-top: 90px;
     background-color: #a29d6f;
-    clip-path: polygon(26% 0, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(24% 0, 100% 0, 100% 100%, 0% 100%);
 }
 .protect__imgs {
     display: flex;
 }
 .protect__leftimg {
-    flex-basis: 50%;
+    flex-basis: 60%;
     height: 195px;
 }
 .protect__rightimg {
-    flex-basis: 30%;
+    flex-basis: 40%;
     height: 195px;
 }
 .protect__text-right {
@@ -73,5 +73,5 @@
     color: #1c212b;
     margin-left: 120px;
     padding-top: 34px;
-    padding-right: 180px;
+    
 }
