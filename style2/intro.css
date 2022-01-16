@@ -3,9 +3,7 @@
     position: relative;
     min-height: 650px;
 }
-.intro__inner {
 
-}
 .intro__img {
     position: absolute;
     bottom: 0;
@@ -33,6 +31,8 @@
     margin: 40px 100px;
     position: relative;
     z-index: 5;
+    hyphens: auto;
+    text-align: justify;
 }
 .intro__text span {
     font-size: 36px;

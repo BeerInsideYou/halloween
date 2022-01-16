@@ -33,12 +33,15 @@
     font-size: 22px;
     color: #1c212b;
     font-family: 'fractal';
-    max-width: 380px;
+    max-width: 320px;
+    hyphens: auto;
+    text-align: justify;
 }
 .swiper-slide {
     display: flex;
 }
 .swiper__right {
+    margin-left: 40px;
     margin-top: 80px;
 }
 .swiper__text-right {

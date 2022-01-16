@@ -44,6 +44,8 @@
     color: #a7a8a0;
     font-size: 18px;
     padding-bottom: 40px;
+    hyphens: auto;
+    text-align: justify;
 }
 .protect__text-left span {
     color: #a29d6f;
@@ -73,5 +75,8 @@
     color: #1c212b;
     margin-left: 120px;
     padding-top: 34px;
+    padding-right: 30px;
+    hyphens: auto;
+    text-align: justify;
     
 }

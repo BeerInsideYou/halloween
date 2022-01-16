@@ -23,4 +23,6 @@
     color: #d5d4c7;
     font-family: 'fractal';
     padding-right: 50px;
+    hyphens: auto;
+    text-align: justify;
 }

@@ -43,8 +43,10 @@ body {
     color: #1c212b;
     font-family: 'fractal';
     font-style: 16px;
-    max-width: 400px;
+    max-width: 350px;
     margin-top: 40px;
+    hyphens: auto;
+    text-align: justify;
 }
 .intro__left {
     margin-right: 40px;

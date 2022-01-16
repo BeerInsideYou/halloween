@@ -57,6 +57,8 @@
     color: #d4d3cc;
     font-family: 'fractal';
     hyphens: auto;
+    hyphens: auto;
+    text-align: justify;
 }
 .what__content p {
     hyphens: auto;

@@ -28,6 +28,8 @@
     font-family: 'fractal';
     max-width: 900px;
     margin-left: 40px;
+    hyphens: auto;
+    text-align: justify;
 }
 
 .history__text p:first-child {
