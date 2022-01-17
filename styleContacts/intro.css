@@ -54,7 +54,6 @@ body {
 
 @media (max-width: 1370px) {
     .intro__left {
-        clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);
-        padding: 150px 0 100px 100px
+        padding: 350px 0 100px 100px
     }
 }
