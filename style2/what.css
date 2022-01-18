@@ -33,9 +33,10 @@
     color: #1c212b;
     text-transform: uppercase;
     font-family: 'mr_ApexMk3', sans-serif;
-    max-width: 230px;
+    max-width: 260px;
     line-height: 1;
     position: relative;
+    letter-spacing: 5px;
 }
 .what__title span {
     font-size: 72px;
