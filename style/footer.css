@@ -9,7 +9,7 @@ body {
     width: 100%;
     position: absolute;
     bottom: 15px;
-    left: 0;
+    left: -100px;
     z-index: 5;
 }
 .footer-glav {
@@ -22,5 +22,13 @@ body {
     position: absolute;
     bottom: 15px;
     left: 0;
+    z-index: 5;
+}
+.hutein {
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    right: -100px;
+    bottom: 0;
     z-index: 5;
 }

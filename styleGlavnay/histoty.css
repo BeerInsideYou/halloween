@@ -19,7 +19,6 @@
 .histoty__inner {
     display: flex;
     justify-content: space-between;
-    padding: 0 100px;
 }
 .histoty__left {
     max-width: 480px;
@@ -28,7 +27,6 @@
 .histoty__right {
     max-width: 480px;
     position: relative;
-    margin-right: 180px;
 }
 .histoty__title {
     font-size: 34px;
@@ -42,7 +40,7 @@
     font-size: 16px;
     color: #d7d7d6;
     font-family: 'fractal';
-    max-width: 320px;
+    max-width: 310px;
     word-spacing: 7px;
     hyphens: auto;
     text-align: justify;

@@ -99,16 +99,10 @@
 .imd {
     width: 500px;
 }
-
-
 .swiper {
-    margin: 0 100px !important;
+    
 }
-@media (max-width: 1360px) {
-    .swiper {
-        margin: 0 40px !important;
-    }
-}
+
 @media (max-width: 1140px) {
     .history__text-two {
         max-width: 370px;
@@ -118,5 +112,10 @@
 @media (max-width: 1100px) {
     .history__text {
         font-size: 14px;
+    }
+}
+@media (max-width: 1005px) {
+    .history__date {
+        font-size: 80px; 
     }
 }

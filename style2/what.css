@@ -23,7 +23,6 @@
     bottom: 0;
     z-index: 1;
     height: 100%;
-    width: 750px;
 }
 .what__content {
     height: 590px;
@@ -76,7 +75,6 @@
 }
 .what__right {
     padding-top: 120px;
-    margin-right: 190px;
     width: 300px;
     z-index: 5;
 }

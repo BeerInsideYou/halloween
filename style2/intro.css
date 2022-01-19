@@ -1,14 +1,13 @@
 .intro {
     background-color: #1c212b;
     position: relative;
-    min-height: 650px;
 }
 
 .intro__img {
     position: absolute;
     bottom: 0;
     right: 0;
-    z-index: 1;
+    z-index: 0;
 }
 .intro__title {
     font-family: 'mr_ApexMk3', sans-serif;
@@ -17,8 +16,9 @@
     max-width: 550px;
     line-height: 1;
     padding-top: 160px;
-    margin: 0 100px;
     letter-spacing: 9px;
+    position: relative;
+    z-index: 5;
 }
 .intro__title span {
     font-size: 72px;
@@ -29,11 +29,11 @@
     font-family: 'fractal';
     color: #e4e2d7;
     max-width: 360px;
-    margin: 40px 100px;
     position: relative;
     z-index: 5;
     hyphens: auto;
     text-align: justify;
+    padding: 0 0 20px 0;
 }
 .intro__text span {
     font-size: 36px;
