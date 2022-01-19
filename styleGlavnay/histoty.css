@@ -18,16 +18,17 @@
 }
 .histoty__inner {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 0 100px;
 }
 .histoty__left {
     max-width: 480px;
     position: relative;
-    margin-left: 30px;
 }
 .histoty__right {
     max-width: 480px;
     position: relative;
+    margin-right: 180px;
 }
 .histoty__title {
     font-size: 34px;

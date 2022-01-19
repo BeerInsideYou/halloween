@@ -5,11 +5,15 @@
 }
 .history__title {
     font-family: 'mr_ApexMk3', sans-serif;
-    font-size: 36px;
+    font-size: 48px;
     color: #1c212b;
     line-height: 1;
     letter-spacing: 3px;
-    max-width: 500px;
+    max-width: 600px;
+    letter-spacing: 8px;
+}
+.history__title span {
+    font-size: 60px;
 }
 .history__subtitle {
     font-family: 'fractal';
@@ -98,7 +102,7 @@
 
 
 .swiper {
-    margin: 0 150px !important;
+    margin: 0 100px !important;
 }
 @media (max-width: 1360px) {
     .swiper {

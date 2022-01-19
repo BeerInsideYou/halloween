@@ -4,7 +4,7 @@ body {
 .intro {
     position: relative;
     display: flex;
-    height: 100vh;
+    height: 90vh;
 }
 .intro__inner {
     width: 100%;
@@ -18,6 +18,8 @@ body {
     max-width: 400px;
     letter-spacing: 4px;
     text-transform: uppercase;
+    letter-spacing: 10px;
+    word-spacing: 0;
 }
 .intro__left {
     width: 60%;
@@ -37,16 +39,19 @@ body {
 .intro__title span {
     color: #1c212b;
     font-size: 140px;
-    letter-spacing: 1px
+    letter-spacing: 11px;
+    word-spacing: -20px;
+
 }
 .intro__text {
     color: #1c212b;
     font-family: 'fractal';
     font-style: 16px;
-    max-width: 350px;
+    max-width: 380px;
     margin-top: 40px;
     hyphens: auto;
     text-align: justify;
+    
 }
 .intro__left {
     margin-right: 40px;

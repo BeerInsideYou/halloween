@@ -53,8 +53,9 @@
 }
 
 .what__content {
+    padding: 0 100px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     font-size: 16px;
     color: #d4d3cc;
     font-family: 'fractal';
@@ -75,6 +76,7 @@
 }
 .what__right {
     padding-top: 120px;
+    margin-right: 190px;
     width: 300px;
     z-index: 5;
 }
